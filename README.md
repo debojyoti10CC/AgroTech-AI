@@ -22,6 +22,11 @@ Make sure you star the repository and show your love to us💗
 <p>
 
 
+## Why to Open Source
+
+Contributing in open source increases your opportunities to work with different projects and mentors, getting to know various insights and ideas. It is a platform where contributors grow together with a construvtive and a positive attitude.
+This repository also provides one such platforms where contributers come over and put their ideas  and make our website as interactive as much they can!
+
 <table>
     <tr>
       <th>Event Logo</th>
